@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447114264049",
+    "project_id": "gestorpasswords",
+    "storage_bucket": "gestorpasswords.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447114264049:android:09a29ca6d7fc287f001850",
+        "android_client_info": {
+          "package_name": "com.example.gestorpasswords"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447114264049-9f8ecpslqp5krrainriavsjb53ie7eou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYz5-CHxphmwQ2nOxoJrQh59lIbwlJhZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447114264049-9f8ecpslqp5krrainriavsjb53ie7eou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
